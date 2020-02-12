@@ -1,6 +1,6 @@
 /**
  * SYST 17796 Project Winter 2019 Base code.
- * Kiranpreet Kaur, Roopminder Kaur, Nasreen, Gurtej Singh
+ * Kiranpreet Kaur, Roopminder Kaur, Nasreen, Gurtej
  * 11 February 2020
  */
 package ca.sheridancollege.project;
