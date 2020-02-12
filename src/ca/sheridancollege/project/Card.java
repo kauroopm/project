@@ -13,6 +13,9 @@ package ca.sheridancollege.project;
  */
 public abstract class Card 
 {
+    public static void main(String[] args){
+        
+    }  
     //default modifier for child classes
     
     /**
