@@ -5,6 +5,8 @@
  */
 package ca.sheridancollege.project;
 
+//import class for arraya and collections
+
 import java.util.ArrayList;
 import java.util.Collections;
 
